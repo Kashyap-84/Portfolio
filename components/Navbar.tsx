@@ -28,7 +28,7 @@ const NAV_ITEMS: Array<NavItem> = [
 const SOCIAL_LINKS = {
   email: "mailto:vvsaikashyap1505@gmail.com",
   linkedin: "https://www.linkedin.com/in/kashyap-kaligotla",
-  github: "https://github.com/kashyap-kaligotla",
+  github: "https://github.com/Kashyap-84",
 }
 
 export default function Navbar() {
